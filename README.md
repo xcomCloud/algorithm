@@ -1,2 +1,2 @@
-# algorithm-java
-算法的java实现
+# algorithm
+算法研究
