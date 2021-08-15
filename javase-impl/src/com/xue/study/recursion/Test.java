@@ -9,4 +9,8 @@ public class Test {
     protected void finalize() throws Throwable {
         super.finalize();
     }
+
+    public static void main(String[] args) {
+        System.out.println("---");
+    }
 }
